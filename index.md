@@ -1,7 +1,7 @@
 #### info
 
 * [https://github.com/matsuhira/about](https://github.com/matsuhira/about)
-* [http://sh.wide.ad.jp/~matsuhira/]{http://sh.wide.ad.jp/~matsuhira/}
+* [http://sh.wide.ad.jp/~matsuhira/](http://sh.wide.ad.jp/~matsuhira/)
 * [https://datatracker.ietf.org/person/Naoki%20Matsuhira](https://datatracker.ietf.org/person/Naoki%20Matsuhira)
 * [https://github.com/matsuhira](https://github.com/matsuhira)
 
